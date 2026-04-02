@@ -10,5 +10,14 @@
   "repository": "https://github.com/Living-Mirrors/mirror-modes",
   "license": "MIT",
   "category": "productivity",
-  "tags": ["cognitive", "creativity", "neuroscience", "modes", "savant", "play", "imagineer", "spark", "learn"]
+  "tags": ["cognitive", "creativity", "neuroscience", "modes", "savant", "play", "imagineer", "spark", "learn"],
+  "skills": [
+    {
+      "name": "mirror-modes",
+      "path": "skills/mirror-modes/SKILL.md",
+      "description": "Activate cognitive modes: savant, play, imagineer, spark, learn. Independent axes that stack.",
+      "user_invocable": true,
+      "argument_hint": "[mode] [dial-level]"
+    }
+  ]
 }
