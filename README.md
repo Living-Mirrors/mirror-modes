@@ -32,13 +32,13 @@ Copy any mode spec from [`skills/mirror-modes/modes/`](skills/mirror-modes/modes
 
 ### Individual Modes
 
-Each mode is also available as a standalone repo:
+Each mode is also available as a standalone repo. Drop in the spec file, or read the principles and output layers separately:
 
-- [savant-mode](https://github.com/Living-Mirrors/savant-mode)
-- [play-mode](https://github.com/Living-Mirrors/play-mode)
-- [imagineer-mode](https://github.com/Living-Mirrors/imagineer-mode)
-- [spark-mode](https://github.com/Living-Mirrors/spark-mode)
-- [learn-mode](https://github.com/Living-Mirrors/learn-mode)
+- [savant-mode](https://github.com/Living-Mirrors/savant-mode) — `savant-mode.md` · `creative-mode.md` · `principles.md` · `combinatorial-perceptions.md`
+- [play-mode](https://github.com/Living-Mirrors/play-mode) — `play-mode.md` · `principles.md` · `output-layers.md`
+- [imagineer-mode](https://github.com/Living-Mirrors/imagineer-mode) — `imagineer-mode.md` · `principles.md` · `output-layers.md`
+- [spark-mode](https://github.com/Living-Mirrors/spark-mode) — `spark-mode.md` · `principles.md` · `output-layers.md`
+- [learn-mode](https://github.com/Living-Mirrors/learn-mode) — `learn-mode.md` · `principles.md` · `output-layers.md`
 
 ## Usage
 
