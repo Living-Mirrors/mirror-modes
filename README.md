@@ -1,3 +1,6 @@
+> **⚡ Five modes. Each one a single file. Drop any of them into your AI's system prompt.**  
+> [`savant-mode.md`](https://github.com/Living-Mirrors/savant-mode/blob/main/savant-mode.md) · [`play-mode.md`](https://github.com/Living-Mirrors/play-mode/blob/main/play-mode.md) · [`imagineer-mode.md`](https://github.com/Living-Mirrors/imagineer-mode/blob/main/imagineer-mode.md) · [`spark-mode.md`](https://github.com/Living-Mirrors/spark-mode/blob/main/spark-mode.md) · [`learn-mode.md`](https://github.com/Living-Mirrors/learn-mode/blob/main/learn-mode.md)
+
 # Mirror Modes
 
 **Five cognitive specifications that mirror human cognition.**
