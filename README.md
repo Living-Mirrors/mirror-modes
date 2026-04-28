@@ -32,15 +32,15 @@ Copy any mode spec from [`skills/mirror-modes/modes/`](skills/mirror-modes/modes
 
 ### Individual Modes
 
-Each mode has a landing page, a standalone repo, and a flat file structure inside that repo:
+Each mode has a landing page and a standalone repo. The full spec — activation, principles, output layers, everything — lives in a single file you can drop into any system prompt:
 
-| Mode | Live page | Repo | Files |
-|------|-----------|------|-------|
-| Savant | [livingmirrors.ai/modes/savant](https://livingmirrors.ai/modes/savant) | [savant-mode](https://github.com/Living-Mirrors/savant-mode) | `savant-mode.md` · `creative-mode.md` · `principles.md` · `combinatorial-perceptions.md` |
-| Play | [livingmirrors.ai/modes/play](https://livingmirrors.ai/modes/play) | [play-mode](https://github.com/Living-Mirrors/play-mode) | `play-mode.md` · `principles.md` · `output-layers.md` |
-| Imagineer | [livingmirrors.ai/modes/imagineer](https://livingmirrors.ai/modes/imagineer) | [imagineer-mode](https://github.com/Living-Mirrors/imagineer-mode) | `imagineer-mode.md` · `principles.md` · `output-layers.md` |
-| Spark | [livingmirrors.ai/modes/spark](https://livingmirrors.ai/modes/spark) | [spark-mode](https://github.com/Living-Mirrors/spark-mode) | `spark-mode.md` · `principles.md` · `output-layers.md` |
-| Learn | [livingmirrors.ai/modes/learn](https://livingmirrors.ai/modes/learn) | [learn-mode](https://github.com/Living-Mirrors/learn-mode) | `learn-mode.md` · `principles.md` · `output-layers.md` |
+| Mode | Live page | Repo | Drop-in spec |
+|------|-----------|------|--------------|
+| Savant | [livingmirrors.ai/modes/savant](https://livingmirrors.ai/modes/savant) | [savant-mode](https://github.com/Living-Mirrors/savant-mode) | [`savant-mode.md`](https://github.com/Living-Mirrors/savant-mode/blob/main/savant-mode.md) |
+| Play | [livingmirrors.ai/modes/play](https://livingmirrors.ai/modes/play) | [play-mode](https://github.com/Living-Mirrors/play-mode) | [`play-mode.md`](https://github.com/Living-Mirrors/play-mode/blob/main/play-mode.md) |
+| Imagineer | [livingmirrors.ai/modes/imagineer](https://livingmirrors.ai/modes/imagineer) | [imagineer-mode](https://github.com/Living-Mirrors/imagineer-mode) | [`imagineer-mode.md`](https://github.com/Living-Mirrors/imagineer-mode/blob/main/imagineer-mode.md) |
+| Spark | [livingmirrors.ai/modes/spark](https://livingmirrors.ai/modes/spark) | [spark-mode](https://github.com/Living-Mirrors/spark-mode) | [`spark-mode.md`](https://github.com/Living-Mirrors/spark-mode/blob/main/spark-mode.md) |
+| Learn | [livingmirrors.ai/modes/learn](https://livingmirrors.ai/modes/learn) | [learn-mode](https://github.com/Living-Mirrors/learn-mode) | [`learn-mode.md`](https://github.com/Living-Mirrors/learn-mode/blob/main/learn-mode.md) |
 
 ## Usage
 
